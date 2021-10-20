@@ -1,2 +1,2 @@
-welcome to git hub
+Welcome to git hub
 
